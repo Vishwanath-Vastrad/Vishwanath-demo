@@ -1,2 +1,2 @@
 # Vishwanath-demo
-This is Demo for Vishwanath.
+This is demo for Vishwanath.
